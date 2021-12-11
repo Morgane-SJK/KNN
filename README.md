@@ -10,7 +10,7 @@ L’algorithme K-NN (K-Nearest Neighbors) ou « algorithme des K plus proches vo
 
 J’ai implémenté cet algorithme sur 2 jeux de données :
 
--	Dataset Iris, qui décrit des fleurs à l’aide de 4 paramètres. Les 3 classes qu’il est possible de prédire sont Iris Setosa, Iris Versicolour et Iris Virginica.
+-	Dataset Iris, qui décrit des fleurs à l’aide de 4 paramètres. Les 3 classes qu’il est possible de prédire sont Iris Setosa, Iris Versicolor et Iris Virginica.
 Il est disponible ici : http://archive.ics.uci.edu/ml/datasets/Iris
 
 -	Un autre dataset, constitué de 10 classes (les lettres de A à J).
